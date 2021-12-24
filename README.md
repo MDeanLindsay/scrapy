@@ -4,7 +4,7 @@ Pull inventory details of competeing ecommerce retailers.
 
 ## Description
 
-Pulls all readily availible inventory data of from 2 competitors.
+Pulls all availible inventory data from 2 competitors websites.
 Tests between using/not using an itemloader().
 
 Brand, product type, product name, product dimensions, price, variations, etc. will be the target fields.
