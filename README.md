@@ -1,13 +1,15 @@
-# Competitor Webscraping 
+# Competitor Inventory Scrapy
 
 Pull inventory details of competeing ecommerce retailers. 
 
 ## Description
 
-Pulls all readily availible inventory data of yarn from 2 competitors.
-One will use an itemloader that is a lot more flexible, the other will be much more simple.
+Pulls all readily availible inventory data of from 2 competitors.
+Tests between using/not using an itemloader().
 
-*Example output should be:
+Brand, product type, product name, product dimensions, price, variations, etc. will be the target fields.
+
+Example output should be:
 ```json
 {"brand": "Lion Brand", "product_type": "Yarns", "name": "Lion Brand Vanna's Choice", "details": "100% Acrylic, 3.5oz", "price": "4.9900", "shades": "33 shades"},
 {"brand": "Bernat", "product_type": "Yarns", "name": "Bernat Softee Chunky", "details": "3.5oz", "price": "4.4900", "shades": "34 shades"},
