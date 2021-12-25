@@ -1,4 +1,4 @@
-# Competitor Inventory Scrapy
+# Competitor Inventory via Scrapy
 
 Pull inventory details of competing e-commerce retailers. 
 
