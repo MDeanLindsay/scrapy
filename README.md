@@ -26,9 +26,6 @@ Example output should be:
 git clone https://github.com/MDeanLindsay/scrapy.git
 ```
 * Step into folder.
-```
-cd Yarn/
-```
 * Start virtual environment.
 ```
 source bin/activate
